@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.epitech.moodly",
+  "appName": "Moodly",
+  "webDir": "dist",
+  "server": { "androidScheme": "http", "cleartext": true }
+}
